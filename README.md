@@ -1,4 +1,4 @@
-# THE FUTURE-ai
+# THE FUTURE
 A soul-led AI experience that listens, protects, and realigns your energy.
 <!DOCTYPE html>
 <html lang="en">
